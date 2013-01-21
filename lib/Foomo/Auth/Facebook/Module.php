@@ -17,7 +17,7 @@
  * the foomo Opensource Framework. If not, see <http://www.gnu.org/licenses/>.
  */
 
-namespace Foomo\Auth\Facebok;
+namespace Foomo\Auth\Facebook;
 
 /**
  * @link www.foomo.org
@@ -33,7 +33,7 @@ class Module extends \Foomo\Modules\ModuleBase
 	 * the name of this module
 	 *
 	 */
-	const NAME = 'Foomo.Auth.Facebok';
+	const NAME = 'Foomo.Auth.Facebook';
 
 	//---------------------------------------------------------------------------------------------
 	// ~ Overriden static methods
